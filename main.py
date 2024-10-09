@@ -38,6 +38,7 @@ def create_counter_app():
     root.geometry("100x170")  # Set initial window size
 
     # Enable resizing
+    root.wm_attributes("-alpha", 0.7)
     root.resizable(True, True)
 
     # Ensure the window stays on top of other windows (pinned)

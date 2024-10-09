@@ -67,6 +67,10 @@ counter_app/
 │   └── main.exe    # The standalone executable (on Windows)
 ├── main.py         # Main Python file
 └── README.md       # This documentation
+
+```
+## License
+This project is open-source and free to use.
 ```
 
 

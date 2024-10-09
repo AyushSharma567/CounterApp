@@ -1,19 +1,18 @@
 # Pinned Counter App 
 
-This is a simple desktop counter application built using Python's Tkinter library. The app features a transparent background, a "+" button to increment the counter, and a "-" button to decrement it. It also includes a "Close" button to exit the app.
+This is a simple desktop counting application built using Python's Tkinter library. The app features a gray background, a "+" button to increment the counter, and a "-" button to decrement it. It also includes a "Close" button to exit the app.
 
 ## Features
 - Desktop widget-like experience (window without borders).
 - Pinned app.
 - Increment and decrement buttons.
-- Close button to exit the application.
 
 ## uses
 you can use the app for following </br>
-- 1. Use the counter to keep track of tasks completed or actions performed throughout the day.
-- 2. Count daily habits (e.g., number of glasses of water consumed, hours spent reading).
-- 3. Use the app to count the days until a specific event (like a birthday or holiday).
-- 4. Maintain score for games played with friends or family.
+- Use the counter to keep track of tasks completed or actions performed throughout the day.
+- Count daily habits (e.g., number of glasses of water consumed, hours spent reading).
+- Use the app to count the days until a specific event (like a birthday or holiday).
+- Maintain score for games played with friends or family.
 
 ## Prerequisites
 Make sure you have Python and pip installed on your system.
@@ -71,7 +70,6 @@ counter_app/
 ```
 ## License
 This project is open-source and free to use.
-```
 
 
  

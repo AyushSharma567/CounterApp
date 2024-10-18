@@ -1,6 +1,6 @@
 # Pinned Counter App 
 
-This is a simple desktop counting application built using Python's Tkinter library. The app features a gray background, a "+" button to increment the counter, and a "-" button to decrement it. It is pinned on screen and you and do other work while this is on andit will be pinned on screen.
+This is a simple desktop counting application built using Python's Tkinter library. The app features a gray background, a "+" button to increment the counter, and a "-" button to decrement it. It is pinned on screen and you and do other work while this is on and it will be pinned on screen.
 
 ![preview](https://i.ibb.co/HNSGpbT/image.png)
 
